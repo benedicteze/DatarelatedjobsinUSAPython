@@ -19,7 +19,7 @@ N/A values were filled with 999999 to
 - Which company types are most interested `in data-related jobs
 
 # Takeaway
-Out of 2084 jib postings, data scientists are most in-demand followed by data analysts. The most sought-after skill
+Out of 2084 job postings, data scientists are most in-demand followed by data analysts. The most sought-after skill
 of a data scientist is Python followed by machine learning, that of a data analyst is Excel followed by Python,  that of a data engineer is Python followed by aws
 and finally a machine learning engineer is machine learning followed by Python. Generally, you need to have some 
 level of Python skills. Although data scientists are the most sought after, the job posting with the highest salary 
